@@ -6,13 +6,12 @@
   "client_documentation": "https://cloud.google.com/java/docs/reference/google-cloud-pubsublite/latest/history",
   "release_level": "stable",
   "transport": "grpc",
-  "requires_billing": true,
   "language": "java",
-  "min_java_version": 8,
   "repo": "googleapis/java-pubsublite",
   "repo_short": "java-pubsublite",
   "distribution_name": "com.google.cloud:google-cloud-pubsublite",
-  "codeowner_team": "@googleapis/api-pubsublite",
+  "api_id": "pubsublite.googleapis.com",
   "library_type": "GAPIC_COMBO",
-  "api_id": "pubsublite.googleapis.com"
+  "requires_billing": true,
+  "codeowner_team": "@googleapis/api-pubsublite"
 }
